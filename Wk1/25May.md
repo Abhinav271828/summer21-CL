@@ -8,7 +8,7 @@ Taught by Prof. Radhika Mamidi
 We note the presence of
 
 * dative subjects
-* caustivity
+* causitivity
 * different verbs depending on animacy
 
 in the IL translations.
