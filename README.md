@@ -9,3 +9,7 @@ A collection of notes and resources for the Computational Linguistics (CL) cours
 ## Lecture Contents
 * Lecture 1 (25 May, Tuesday)
     - Introduction
+* Lecture 2 (26 May, Wednesday)
+    - Applied Linguistics
+    - Levels of Language Processing
+    - Model of Language Processing
