@@ -41,7 +41,7 @@ Modality: The moods in Malayalam are assertive, interrogative, subjunctive, pote
         * interrogative: ചെയ്തോ (ceytō) "did <subject> do?", ചെയ്യുമോ (ceyyumō) "will <subject> do?"  
         * subjunctive: ചെയ്തേനെ (ceytēne) "would have done"  
         * potential: ചെയ്യാം (ceyyām) "can do"  
-        * condition: ചേയ്താൽ (ceytāl) "if <subject> does"  
+        * conditional: ചേയ്താൽ (ceytāl) "if <subject> does"  
 
 (c) Gender: Malayalam has a common gender system. Most adjectives that are not derived from verbs change according to gender:  
 
