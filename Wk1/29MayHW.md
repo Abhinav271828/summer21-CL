@@ -14,7 +14,7 @@
     vātilinaṭutt' nilkkunna payyan enṯe sahōdaranāṇ'.  
     
 ## Exercise 2
-(a) Malayalam has 7 cases: nominative, accusative, genitive, dative, locative, sociative, vocative. Examples are as follows:
+(a) Malayalam has 7 cases: nominative, accusative, genitive, dative, locative, sociative, vocative. Examples are as follows:  
         (i) nominative: e.g. അവൻ (avan) "he", മേശ (mēśa) "table", പടം (paṭam) "picture"  
         (ii) accusative: e.g. അവനെ (avane) "him", മേശയെ (mēśaye) "table (acc.)", പടം (paṭam) or പടത്തെ (paṭatte) "picture (acc.)"  
         (iii) genitive: e.g. അവന്റെ (avanṯe) "his", മേശയുടെ (mēśayuṭe) "of the table", പടത്തിന്റെ (paṭattinṯe) "of the picture"  
