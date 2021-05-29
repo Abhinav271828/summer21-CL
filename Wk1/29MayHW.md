@@ -4,11 +4,13 @@
 
 ## Exercise 1
 1. I love rainy season. I walk in rain whenever possible. My mother thinks I am mad.  
+
     `എനിക്ക് മഴക്കാലം ഇഷ്ടമാണ്. സാധിക്കുമ്പോഴെല്ലാം ഞാൻ മഴയത്ത് നടക്കും. എന്റെ അമ്മയ്ക്ക് ഞാൻ വട്ടാണെന്ന് തോന്നുന്നു.`  
     `enikk' mazhakkālam iṣṭamāṇ'. sādhikkunpōzhellāṃ ñān mazhayatt' natakkuṃ. enṯe ammaykk' ñān vaṭṭāṇenn' tōnnunnu.`  
 2. He is my brother. He hit the ball. The ball hit the window. The window broke. He broke the window.
     `അചൻ എന്റെ സഹോദരനാണ്. അവൻ പന്ത് അടിച്ചു. പന്ത് ജന്നലിൽ തട്ടി. ജന്നൽ പൊട്ടി. അവൻ ജന്നൽ പൊട്ടിച്ചു.`  
     `avan enṯe sahōdaranāṇ'. avan pant' aṭiccu. pant' jannalil taṭṭi. jannal potti. avan jannal potticcu.`  
+
 3. The boy who is standing near the gate is my brother.  
     `വാതിലിനടുത്ത് നിൽക്കുന്ന പയ്യൻ എന്റെ സഹോദരനാണ്.`  
     `vātilinaṭutt' nilkkunna payyan enṯe sahōdaranāṇ'.`  
