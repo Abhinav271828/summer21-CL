@@ -30,10 +30,11 @@
 
     past: ചെയ്തു (ceytu) "did", ചെയ്തിട്ടുണ്ട് (ceytiṭṭuṇṭ') "has/have done", etc.  
     non-past: ചെയ്യും (ceyyuṃ) "does/will do", ചെയ്യുന്നു (ceyyunnu) "is doing", etc.  
-Aspect: There are three aspects: simple, progressive and perfect (as in English):
+Aspect: There are four aspects: simple, progressive, perfect (as in English), and habitual:
 
     simple: ചെയ്തു (ceytu) "did",  ചെയ്യും (ceyyum) "does/will do"  
     progressive: ചെയ്യുകയായിരുന്നു (ceyyukayāyirunnu) "was doing", ചെയ്യുന്നു (ceyyunnu) "is doing"
+    habitual: ചെയ്യാറുണ്ട് (ceyyāṟuṇṭ') “does (habitual)”
     perfect: ചെയ്തിട്ടുണ്ട് (ceytiṭṭuṇṭ') "has/have done", ചെയ്തിട്ടുണ്ടായിരുന്നു (ceytiṭṭuṇṭåyirunnu) "had done", ചെയ്തിട്ടുണ്ടാവും (ceyiṭṭuṇṭåvum) "will have done"  
 Modality: The moods in Malayalam are assertive, interrogative, subjunctive, potential and conditional:
 
