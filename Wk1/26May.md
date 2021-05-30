@@ -1,6 +1,6 @@
 # Computational Linguistics (CL3.101)
 ## Summer 2021, IIIT Hyderabad
-## 26 May, Tuesday (Lecture 2)
+## 26 May, Wednesday (Lecture 2)
 
 Taught by Prof. Radhika Mamidi
 
