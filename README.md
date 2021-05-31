@@ -13,3 +13,6 @@ A collection of notes and resources for the Computational Linguistics (CL) cours
     - Applied Linguistics
     - Levels of Language Processing
     - Model of Language Processing
+* Lecture 3 (31 May, Monday)
+    - Language Processing (contd.)
+    - Machine Translation
