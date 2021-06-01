@@ -4,7 +4,7 @@
 
 Taught by Prof. Radhika Mamidi
 
-## Language Processing
+## Language Processing (contd.)
 The transition between the various stages of language processing is bidirectional, to enable re-analysis.
 
 ## Machine Translation
