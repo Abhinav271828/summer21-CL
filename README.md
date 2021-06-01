@@ -16,3 +16,8 @@ A collection of notes and resources for the Computational Linguistics (CL) cours
 * Lecture 3 (31 May, Monday)
     - Language Processing (contd.)
     - Machine Translation
+* Lecture 4 (01 June, Tuesday)
+    - Applications
+    - Methods
+    - Types of MT Systems
+    - Limitations
