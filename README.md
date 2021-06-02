@@ -3,7 +3,22 @@
 
 A collection of notes and resources for the Computational Linguistics (CL) course at IIIT Hyderabad.
 
-## Course Outline
+## Course Topics
+- [ ] Introduction
+- [ ] Language Processing Pipeline
+    - [ ] Morph Analysis
+    - [ ] Word Meaning
+    - [ ] Shallow and Sentence Parsing
+        - [ ] POS Tagging
+        - [ ] Shallow Parsing
+        - [ ] Local Word Grouping (LWG)
+        - [ ] Chunking
+    - [ ] Multi-word Expressions (MWE)
+    - [ ] Syntactic Parsing
+        - [ ] Constituency Analysis
+        - [ ] Dependency Analysis
+        - [ ] Parsing Approaches
+- [ ] Speech Processing
 
 
 ## Lecture Contents
@@ -21,3 +36,5 @@ A collection of notes and resources for the Computational Linguistics (CL) cours
     - Methods
     - Types of MT Systems
     - Limitations
+* Lecture 5 (02 June, Wednesday)
+    - Course Objective & Overview
