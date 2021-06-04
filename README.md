@@ -22,19 +22,21 @@ A collection of notes and resources for the Computational Linguistics (CL) cours
 
 
 ## Lecture Contents
-* Lecture 1 (25 May, Tuesday)
-    - Introduction
-* Lecture 2 (26 May, Wednesday)
-    - Applied Linguistics
-    - Levels of Language Processing
-    - Model of Language Processing
-* Lecture 3 (31 May, Monday)
-    - Language Processing (contd.)
-    - Machine Translation
-* Lecture 4 (01 June, Tuesday)
-    - Applications
-    - Methods
-    - Types of MT Systems
-    - Limitations
-* Lecture 5 (02 June, Wednesday)
-    - Course Objective & Overview
+* Week 1
+    * Lecture 1 (25 May, Tuesday)
+        - Introduction
+    * Lecture 2 (26 May, Wednesday)
+        - Applied Linguistics
+        - Levels of Language Processing
+        - Model of Language Processing
+* Week 2
+    * Lecture 3 (31 May, Monday)
+        - Language Processing (contd.)
+        - Machine Translation
+    * Lecture 4 (01 June, Tuesday)
+        - Applications
+        - Methods
+        - Types of MT Systems
+        - Limitations
+    * Lecture 5 (02 June, Wednesday)
+        - Course Objective & Overview
