@@ -1,0 +1,41 @@
+Original:
+The State government would impose a strict lockdown in the State from June 5 to June 9 to curb COVID-19 transmission . 
+
+Chief Minister Pinarayi Vijayan told a top-level pandemic review meeting on Thursday that the goverment would allow only essential services during the period . 
+
+The relaxation on curbs on life , mobility , retail and commerce would end at 7 PM on June 4th . 
+
+Only shops selling essential supplies , medicine , construction material , packaging and raw material for industrial production could open for business .
+
+Stores dealing in scrap could conduct business till 7 PM on June 4th .
+
+Government , quasi-government , and public sector institutions , corporations , and various commissions would remain closed . 
+
+They could open with less than 50% of the workforce from June 10th .
+
+People entering Kerala would require a COVID negative certificate . 
+
+The State has braced itself for a third wave . 
+
+As a first step , the administration would fully inoculate guest workers and other vulnerable sections . 
+
+Tagged:
+The_AT State_NN1 government_NN1 would_VM impose_VVI a_AT1 strict_JJ lockdown_NN1 in_II the_AT State_NN1 from_II June_NPM1 5_MC to_II June_NPM1 9_MC to_TO curb_VVI COVID-19_MC transmission_NN1 ._. 
+
+Chief_JJ Minister_NN1 Pinarayi_NP1 Vijayan_NP1 told_VVD a_AT1 top-level_JJ pandemic_JJ review_NN1 meeting_VVG on_II Thursday_NPD1 that_CST the_AT goverment_NN1 would_VM allow_VVI only_RR essential_JJ services_NN2 during_II the_AT period_NN1 ._. 
+
+The_AT relaxation_NN1 on_II curbs_NN2 on_II life_NN1 ,_, mobility_NN1 ,_, retail_JJ and_CC commerce_NN1 would_VM end_VVI at_II 7_MC PM_NP1 on_II June_NPM1 4th_MD ._. 
+
+Only_JJ shops_NN2 selling_VVG essential_JJ supplies_NN2 ,_, medicine_NN1 ,_, construction_NN1 material_NN1 ,_, packaging_NN1 and_CC raw_JJ material_NN1 for_IF industrial_JJ production_NN1 could_VM open_JJ for_IF business_NN1 ._. 
+
+Stories_NN2 dealing_VVG in_II scrap_NN1 could_VM conduct_VVI business_NN1 till_II 7_MC PM_NP1 on_II June_NPM1 4th_MD ._.
+
+Government_NN1 ,_, quasi-government_NN1 ,_, and_CC public_JJ sector_NN1 institutions_NN2 ,_, corporations_NN2 ,_, and_CC various_JJ commissions_NN2 would_VM remain_VVI closed_JJ ._. 
+
+They_PPHS2 could_VM open_VVI with_IW less_DAR than_CSN 50%_NNU of_IO the_AT workforce_NN1 from_II June_NPM1 10th_MD ._.
+
+People_NN entering_VVG Kerala_NP1 would_VM require_VVI a_AT1 COVID_JJ negative_JJ certificate_NN1 ._. 
+
+The_AT State_NN1 has_VHZ braced_VVN itself_PPX1 for_IF a_AT1 third_MD wave_NN1 ._. 
+
+As_II a_AT1 first_MD step_NN1 ,_, the_AT administration_NN1 would_VM fully_RR inoculate_VVI guest_NN1 workers_NN2 and_CC other_JJ vulnerable_JJ sections_NN2 ._. 
