@@ -40,3 +40,6 @@ A collection of notes and resources for the Computational Linguistics (CL) cours
         - Limitations
     * Lecture 5 (02 June, Wednesday)
         - Course Objective & Overview
+* Week 3
+    * Lecture 6 (07 June, Monday)
+        - An Exercise in Morph Analysis
