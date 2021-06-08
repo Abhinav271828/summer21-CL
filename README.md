@@ -43,3 +43,6 @@ A collection of notes and resources for the Computational Linguistics (CL) cours
 * Week 3
     * Lecture 6 (07 June, Monday)
         - An Exercise in Morph Analysis
+    * Lecture 7 (08 June, Tuesday)
+        - Homonymy
+        - Part-Of-Speech Tagging
