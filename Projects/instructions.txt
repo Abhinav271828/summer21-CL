@@ -1,0 +1,39 @@
+2 projects
+Presenatation and a report at the end of the term.
+
+Project 1 (individual) – Making a Word Cloud
+    A. in English
+    B. in mother tongue
+        [ma'am said "try it in English, and then we want you to do it in your mother tongue." idk]
+    - choose a magazine/newspaper/research paper
+    - do preprocessing: remove noise (punctuation, ads, images)
+    - perform tokensation and segmentation (words, fonts)
+    - run PoS tagger
+    - remove stop words
+    - make a Word Cloud giving weights (e.g.someone took words as authors' names, weight was number of papers published) (for words, clue: frequency)
+
+Learning: Usage of crawling tools, NLTK, Python packages [more on this from TAs]
+
+
+Project 2 (pair)
+    1. Text classification: Sentiment (+ve/-ve)
+    2. "        "       " : Opinion (for/against)
+    3. "        "       " : Toxic (presence/absence)
+    4. "        "       " : Gender (bias/no bias)
+    5. "        "       " : Humour (presence/absence)
+    6. Sentence similarity
+    7. Time expressions identification
+    8. Document classification (topics/authors)
+    9. Named entity recognition
+    10. Question generation from stories
+
+
+TAs will go through basics and prereqs on Saturday 12/06 tutorial – basic python + language processing tools.
+
+Tentative Dates:
+June 15th: Individual project start
+June 23rd: Team formation
+June 30th: Topics finalised
+July 15th: Pair project start (estimated 30 days)
+
+Milestones for project progress will be given.
