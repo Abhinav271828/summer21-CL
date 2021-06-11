@@ -1,0 +1,30 @@
+2 papers have to be presented in total.
+    1. 1995-2000; rule-based or statistical-based.
+    2. Any LTRC paper.
+
+Make observations – applying conclusions of own paper to your mother tongue, opinions, views, etc.
+
+• 10-15 slides each
+• 8-10 minutes
+• Add references in a reference slide.
+
+Slides will be shared with the class.
+
+Searching for papers:
+    ResearchGate, Google Scholar
+    IIIT website
+    ACL anthology (aclweb.org/anthology/)
+
+Suggested topics:
+    Machine Translation
+    Speech Recognition
+    Text to Speech
+    Dialogue Systems
+    Question Answering
+    Parsing
+    Text Classification
+    Word Sense Disambiguation
+    Question Generation
+    Named Entity Recognition
+
+See that project areas ≠ seminar topics.
