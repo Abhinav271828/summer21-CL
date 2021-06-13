@@ -4,7 +4,7 @@ Presenatation and a report at the end of the term.
 Project 1 (individual) – Making a Word Cloud
     A. in English
     B. in mother tongue
-        [ma'am said "try it in English, and then we want you to do it in your mother tongue." idk]
+        [ma'am said "try it in English, and then we want you to do it in your mother tongue."]
     - choose a magazine/newspaper/research paper
     - do preprocessing: remove noise (punctuation, ads, images)
     - perform tokensation and segmentation (words, fonts)
