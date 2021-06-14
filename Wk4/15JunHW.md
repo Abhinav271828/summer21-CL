@@ -25,7 +25,7 @@ Functional Free:
 * വല്ല valla ("any (adj.)")
 * ഒരു oru ("a/an/one (indef. art.)")
 * ഈ ī ("this (dem. adj.)")
-* പക്ഷെ pakṣe ("but")
+* പക്ഷെ pakṣe ("but/however")
 
 Functional Bound:
 * -കൾ -kaḷ (plural e.g. കസേരകൾ kasērakaḷ ("chairs"), മേശകൾ mēśakaḷ ("tables"))
