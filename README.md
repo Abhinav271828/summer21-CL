@@ -4,7 +4,7 @@
 A collection of notes and resources for the Computational Linguistics (CL) course at IIIT Hyderabad.
 
 ## Course Topics
-- [ ] Introduction
+- [x] Introduction
 - [ ] Language Processing Pipeline
     - [ ] Morph Analysis
     - [ ] Word Meaning
@@ -46,3 +46,8 @@ A collection of notes and resources for the Computational Linguistics (CL) cours
     * Lecture 7 (08 June, Tuesday)
         - Homonymy
         - Part-Of-Speech Tagging
+    * Lecture 8 (09 June, Wednesday)
+        - Seminar & Project Instructions
+* Week 4
+    * Lecture 9 (14 June, Monday) – Morph Analysis 1
+        - Computational Morphology
