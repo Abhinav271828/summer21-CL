@@ -54,3 +54,5 @@ A collection of notes and resources for the Computational Linguistics (CL) cours
     * Lecture 10 (15 June, Tuesday) – Morph Analysis 2
 * Week 5
     * Lecture 11 (21 June, Monday) – Morph Analysis 3
+    * Lecture 12 (22 June, Tuesday) – Morph Analysis 4
+        - Paradigm Based Morphological Analysers
