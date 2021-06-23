@@ -5,6 +5,7 @@
 Taught by Prof. Radhika Mamidi
 
 ## Paradigm Based Morphological Analysers
+### Lexemes
 The headwords in a dictionary are called lexemes. They are usually written in all-caps. Their inflected forms are its word forms.  
 Note that derived words are new lexemes.
 
