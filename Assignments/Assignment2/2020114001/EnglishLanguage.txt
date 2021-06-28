@@ -1,0 +1,468 @@
+1. Additional Chief Secretary Dr. A. Jayatilak, who gave the order for the felling of trees in the state, agreed that there were ambiguities in the order.
+Tagged:
+Additional
+Chief
+Secretary
+Dr.
+A. [B_PERS]
+Jayatilak [I_PERS],
+who
+gave
+the
+order
+for
+the
+felling
+of
+trees
+in
+the
+state,
+agreed
+that
+there
+were
+ambiguities
+in
+the
+order.
+
+2. England, Holland and Austria won in the Euro Cup football matches that took place on Sunday.
+Tagged:
+England [B_GPE],
+Holland [B_GPE]
+and
+Austria [B_GPE]
+won
+in
+the
+Euro
+Cup
+football
+matches
+that
+took
+place
+on
+Sunday.
+
+3. Bahrain has temporarily stopped permitting new work visas to Indians.
+Tagged:
+Bahrain [B_GPE]
+has
+temporarily
+stopped
+permitting
+new
+work
+visas
+to
+Indians [B_NORP]
+
+4. Christian Eriksen is recovering in a hospital in Copenhagen.
+Tagged:
+Christian [B_PERS]
+Eriksen [I_PERS]
+is
+recovering
+in
+a
+hospital
+in
+Copenhagen [B_ORG]
+
+5. After far-right Jews conducted a rally in the Old City in East Jerusalem, the Palestinians fired fireballs from Israel on Tuesday.
+Tagged:
+After
+far-right
+Jews [B_NORP]
+conducted
+a
+rally
+in
+the
+Old [B_GPE]
+City [I_GPE]
+in
+East [B_GPE]
+Jerusalem [I_GPE]
+the
+Palestinians [B_NORP]
+fired
+fireballs
+from
+Israel [B_GPE]
+on
+Tuesday.
+
+6. CPM has decided to put an end to the questions related to the allegation that CPM committee member P Vijayarajan is attempting to increase his own influence.
+Tagged:
+CPM [B_ORG]
+has
+decided
+to
+put
+an
+end
+to
+the
+questions
+related
+to
+the
+allegation
+that
+CPM [B_ORG]
+committee
+member
+P
+Vijayarajan [B_ORG]
+is
+attempting
+to
+increase
+his
+own
+influence.
+
+7. Extremist and Chief Court Justice Ibrahim Reysi has been elected as the eigth President of Iran.
+Tagged:
+Extremist
+and
+Chief
+Court
+Justice
+Ibrahim [B_PERS]
+Reysi [I_PERS]
+has
+been
+elected
+as
+the
+eigth
+President
+of
+Iran [B_GPE]
+
+8. Indian captain Virat Kohli and New Zealand captain Kane Williamson, when they reached the ground for the toss of the first World Test Cricket Championship in Southampton in England.
+Tagged:
+Indian [B_NORP]
+captain
+Virat [B_PERS]
+Kohli [I_PERS]
+and
+New [B_GPE]
+Zealand [I_GPE]
+captain
+Kane [B_PERS]
+Williamson [I_PERS]
+when
+they
+reached
+the
+ground
+for
+the
+toss
+of
+the
+first
+World [B_ORG]
+Test [I_ORG]
+Cricket [I_ORG]
+Championship [I_ORG]
+in
+Southampton [B_GPE]
+in
+England [B_GPE]
+
+9. In order to reduce the expenditure on fuel, KSRTC's first LNG bus using green fuel will start service on the Trivandrum-Ernakulam, Ernakulam-Kozhikode route.
+Tagged:
+In
+order
+to
+reduce
+the
+expenditure
+on
+fuel,
+KSRTC's [B_ORG]
+first
+LNG [B_ORG]
+bus
+using
+green
+fuel
+will
+start
+service
+on
+the
+Trivandrum-Ernakulam [B_ORG]
+Ernakulam-Kozhikode [B_PERS]
+route.
+
+10. In the Trivandrum gold smuggling case, the customs notice for UAE citizens has reached the Foreign Affairs Ministry.
+Tagged:
+In
+the
+Trivandrum [B_ORG]
+gold
+smuggling
+case,
+the
+customs
+notice
+for
+UAE [B_ORG]
+citizens
+has
+reached
+the
+Foreign [B_ORG]
+Affairs [I_ORG]
+Ministry [I_ORG]
+
+11. Congress leader and Wayanad MP Rahul Gandhi's 51st birthday was celebrated as Congress Service Day on Saturday.
+Tagged:
+Congress [B_ORG]
+leader
+and
+Wayanad [B_PERS]
+MP [B_PERS]
+Rahul [B_PERS]
+Gandhi's [B_PERS]
+51st
+birthday
+was
+celebrated
+as
+Congress [B_ORG]
+Service [I_ORG]
+Day [I_ORG]
+on
+Saturday.
+
+12. BJP has lodged a complaint with State Election Commissioner Tikaram Meena requesting an investigation into CPM's use of black money in the Legislative Assembly ELections.
+Tagged:
+BJP [B_ORG]
+has
+lodged
+a
+complaint
+with
+State [B_ORG]
+Election
+Commissioner
+Tikaram [B_PERS]
+Meena [I_PERS]
+requesting
+an
+investigation
+into
+CPM's [B_ORG]
+use
+of
+black
+money
+in
+the
+Legislative [B_ORG]
+Assembly [I_ORG]
+Elections [I_ORG]
+
+13. On 27th December 1976, the then Prime Minister Indira Gandhi travelling from Kochi to Lakshadweep on the Indian Navy's first aircraft carrier, INS Vikrant, symbol of its strength and reputation
+Tagged:
+On
+27th
+December
+1976,
+the
+then
+Prime
+Minister
+Indira [B_PERS]
+Gandhi [I_PERS]
+travelling
+from
+Kochi [B_GPE]
+to
+Lakshadweep
+on
+the
+Indian
+Navy's [B_ORG]
+first
+aircraft
+carrier,
+INS [B_ORG]
+Vikrant [I_ORG]
+symbol
+of
+its
+strength
+and
+reputation.
+
+14. A monument in memory of dogs who died in the service of the Police Force has been constructed in the Police Academy in Thrissur.
+Tagged:
+A
+monument
+in
+memory
+of
+dogs
+who
+died
+in
+the
+service
+of
+the
+Police [B_ORG]
+Force [I_ORG]
+has
+been
+constructed
+in
+the
+Police [B_ORG]
+Academy [I_ORG]
+in
+Thrissur [B_GPE]
+
+15. Army Chief K.S. Bhadauria has said that from next year, 36 Rafale fighter jets will be part of the Air Force.
+Tagged:
+Army [B_ORG]
+Chief
+K.S. [B_PERS]
+Bhadauria [I_PERS]
+has
+said
+that
+from
+next
+year,
+36
+Rafale
+fighter
+jets
+will
+be
+part
+of
+the
+Air [B_ORG]
+Force [I_ORG]
+
+16. Minister G.R. Anil inaugurated the district-level scheme whereby the District Panchayat will vaccinate bedridden patients using a Mobile Vaccination Unit.
+Tagged:
+Minister
+G.R. [B_PERS]
+Anil [I_PERS]
+inaugurated
+the
+district-level
+scheme
+whereby
+the
+District
+Panchayat
+will
+vaccinate
+bedridden
+patients
+using
+a
+Mobile [B_PERS]
+Vaccination [I_PERS]
+Unit [I_PERS]
+
+17. K. Sudhakaran is as fiery in the Congress as Pinarayi Vijayan is in the  CPM.
+Tagged:
+K. [B_PERS]
+Sudhakaran
+is
+as
+fiery
+in
+the
+Congress [B_ORG]
+as
+Pinarayi [B_PERS]
+Vijayan [I_PERS]
+is
+in
+the 
+CPM.
+
+18. The Brahmananda Charitable Trust, based in Kozhikode, has begun operations at its regional centre at Trivandrum.
+Tagged:
+The
+Brahmananda [B_ORG]
+Charitable [I_ORG]
+Trust [I_ORG]
+based
+in
+Kozhikode [B_GPE]
+has
+begun
+operations
+at
+its
+regional
+centre
+at
+Trivandrum [B_ORG]
+
+19. Centrum Financial Services Executive Chairman Jaspal Bhindra said that the Reserve Bank has allowed 120 days for Centrum Small Finances Bank to begin operations.
+Tagged:
+Centrum [B_ORG]
+Financial [I_ORG]
+Services [I_ORG]
+Executive [B_ORG]
+Chairman
+Jaspal [B_PERS]
+Bhindra [I_PERS]
+said
+that
+the
+Reserve [B_ORG]
+Bank [I_ORG]
+has
+allowed
+120
+days
+for
+Centrum [B_ORG]
+Small [I_ORG]
+Finances [I_ORG]
+Bank [I_ORG]
+to
+begin
+operations.
+
+20. As Taliban terrorists increase their influence in Afghanistan, President Ashraf Ghani has dismissed the Defence Minister, Internal Affairs Minister and Army Chief.
+Tagged:
+As
+Taliban [B_ORG]
+terrorists
+increase
+their
+influence
+in
+Afghanistan [B_GPE]
+President
+Ashraf [B_GPE]
+Ghani [I_GPE]
+has
+dismissed
+the
+Defence
+Minister,
+Internal
+Affairs
+Minister
+and
+Army [B_ORG]
+Chief.

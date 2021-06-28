@@ -1,0 +1,628 @@
+Transliterated:
+
+1. samsthānatt' maramkoLLaykk' vazhiyorukkiya uttaravil avyaktatakaL uNTāyirunnuvenn' uttaraviTTa aDiSaNal cīph sekraTTaRi Dō. jayatilak sammaticcu.
+Tagged:
+samsthānatt'
+maramkoLLaykk'
+vazhiyorukkiya
+uttaravil
+avyaktatakaL
+uNTāyirunnuvenn'
+uttaraviTTa
+aDiSaNal
+cīph
+sekraTTaRi
+Dō. [B_PERS]
+e. [I_PERS]
+jayatilak [I_PERS]
+sammaticcu.
+
+2. yūRō kapp' phuTbōLil ñāyaRāzhca naTanna matsarańńaLil imglaNT', hōLaNT', ōsTriya TīmukaLkk' jayam.
+Tagged:
+yūRō [B_ORG]
+kapp' [I_ORG]
+phuTbōLil
+ñāyaRāzhca
+naTanna
+matsarańńaLil
+imglaNT' [B_GPE]
+hōLaNT' [B_GPE]
+ōsTriya [B_GPE]
+TīmukaLkk'
+jayam.
+
+3. intyakkārkk' putiya tozhil visa anuvadikkunnat' bahRain tātkālikamāyi nirtti.
+Tagged:
+intyakkārkk' [B_NORP]
+putiya
+tozhil
+visa
+anuvadikkunnat'
+bahRain [B_GPE]
+tātkālikamāyi
+nirtti.
+
+4. kōppanhēganile āśupatriyil kazhiyunna krisRRyan eRiksaN sukhamprapiccuvarunnu.
+Tagged:
+kōppanhēganile [B_LOC]
+āśupatriyil
+kazhiyunna
+krisRRyan [B_PERS]
+eRiksaN [B_PERS]
+sukhamprapiccuvarunnu.
+
+5. kizhakkan jaRusalēmile ōLD siRRiyil tīvravalatupakSa jūtamatakkār Rāli naTattiyatinupinnāle covvāzhca israyēlinunēre palastīnikaL tībalūNukaL toTuttu.
+Tagged:
+kizhakkan [B_GPE]
+jaRusalēmile [I_GPE]
+ōLD [B_LOC]
+siRRiyil [I_LOC]
+tīvravalatupakSa
+jūtamatakkār [B_NORP]
+Rāli
+naTattiyatinupinnāle
+covvāzhca
+israyēlinunēre [B_GPE]
+palastīnikaL [B_NORP]
+tībalūNukaL
+toTuttu.
+
+6. si.pi.em. samsthāna kammiRRi amgamāya pi. vijayarājan svantam vyaktiprabhāvam vaLarttān śramikkunnuvenna ārōpaNavumāyi bandhappeTTa praśnańńaL pūrNavirāmamiTān si.pi.em. tīrumāniccu.
+Tagged:
+si.pi.em. [B_ORG]
+samsthāna
+kammiRRi
+amgamāya
+pi. [B_PERS]
+vijayarājan [I_PERS]
+svantam
+vyaktiprabhāvam
+vaLarttān
+śramikkunnuvenna
+ārōpaNavumāyi
+bandhappeTTa
+praśnańńaL
+pūrNavirāmamiTān
+si.pi.em. [B_ORG]
+tīrumāniccu.
+
+7. tīvranilapāTukāranum suprīm kōTati cīph jasRRisumāya ibrāhim Reysi iRānRe eTTāmatu prasiDanRāyi tiraññeTukkappeTTu.
+Tagged:
+tīvranilapāTukāranum
+suprīm [B_ORG]
+kōTati [B_ORG]
+cīph
+jasRRisumāya
+ibrāhim [B_PERS]
+Reysi [I_PERS]
+iRānRe [B_GPE]
+eTTāmatu
+prasiDanRāyi
+tiraññeTukkappeTTu.
+
+8. imglaNDile satampTaNil prathama lōka TesRR' krikkaRR' cyānpyanSippinRe phainalil Tōsinayi intyan kyāpRRan virāT' kõliyum nyūsīlaND' kyāpRRan keyn vilyamsaNum grauNDilettiyappoL.
+Tagged:
+imglaNDile [B_GPE]
+satampTaNil [B_LOC]
+prathama
+lōka [B_ORG]
+TesRR' [I_ORG]
+krikkaRR' [I_ORG]
+cyānpyanSippinRe [I_ORG]
+phainalil
+Tōsinayi
+intyan [B_NORP]
+kyāpRRan
+virāT' [B_PERS]
+kõliyum [B_PERS]
+nyūsīlaND' [B_GPE]
+kyāpRRan
+keyn [B_PERS]
+vilyamsaNum [I_PERS]
+grauNDilettiyappoL.
+
+9. indhanacelav' kuRaykkānāyi harita indhanam upayõgiccuLLa ke.es.ār.Tī.sī.yuTe ādya el.en.ji. bas tiruvanantapuram-eRaNākuLam, eRanākuLam-kõzhikkōT' pātayil sarvīs' tuTańńum.
+Tagged:
+indhanacelav'
+kuRaykkānāyi
+harita
+indhanam
+upayõgiccuLLa
+ke.es.ār.Tī.sī.yuTe [B_ORG]
+ādya
+el.en.ji.
+bas
+tiruvanantapuram [B_LOC]
+-eRaNākuLam [B_LOC]
+eRanākuLam [B_LOC]
+-kõzhikkōT' [B_LOC]
+pātayil sarvīs'
+tuTańńum.
+
+10. tiruvanantapuram svarNakkaTatt' kēsil yu.e.i. pouranmārkkuLLa kasRRams' nõTTīs' vidēSa kārya mantrālayattiletti.
+Tagged:
+tiruvanantapuram [B_LOC]
+svarNakkaTatt'
+kēsil
+yu.e.i. [B_GPE]
+pouranmārkkuLLa
+kasRRams'
+nõTTīs'
+vidēSa [B_ORG]
+kārya [I_ORG]
+mantrālayattili [I_ORG]
+etti.
+
+11. kōNgras' nētāvum vayanāT' em.pi.yumāya rāhulgāndhiyuTe 51-ām piRannāL śaniyāzhca kōNgras' sēvādinamāyi ācaricc.
+Tagged:
+kōNgras' [B_ORG]
+nētāvum
+vayanāT' [B_GPE]
+em.pi.yumāya
+rāhulgāndhiyuTe [B_PERS]
+51-ām
+piRannāL
+śaniyāzhca
+kōNgras' [B_ORG]
+sēvādinamāyi
+ācariccu.
+
+12. niyamasabhā tiraññeTuppil si.pi.em. ozhukkiya havālappaNattekuRicc' anvēSikkaNamennāvaśyappeTT' bi.je.pi. samsthāna tiraññeTupp' kammiSaNar TikkāRām mīNaykk' parāti nalki.
+Tagged:
+niyamasabhā [B_ORG]
+tiraññeTuppil
+si.pi.em. [B_ORG]
+ozhukkiya
+havālappaNattekuRicc'
+anvēSikkaNamennāvaśyappeTT'
+bi.je.pi. [B_ORG]
+samsthāna
+tiraññeTupp'
+kammiSaNar
+TikkāRām [B_PERS]
+mīNaykk' [I_PERS]
+parāti
+nalki.
+
+13. 1976 Disambar 27n' annatte pradhānamantri indirāgānshi kocciyilninn' intyan nāvikasēnayuTe karuttinReyum kīrttiyuTeyum pratīkamāya ādyatte vimānavāhinikkappal ai.en.es.vikrāntil lakSadvīpilēkk' yātrayākunnu.
+Tagged:
+1976
+Disambar
+27n'
+annatte
+pradhānamantri
+indirāgāndhi [B_PERS]
+kocciyilninn' [B_LOC]
+intyan [B_ORG]
+nāvikasēnayuTe [I_ORG]
+karuttinReyum
+kīrttiyuTeyum
+pratīkamāya
+ādyatte
+vimānavāhinikkappal
+ai.en.es. [B_LOC]
+vikrāntil [I_LOC]
+lakSadvīpilēkk' [B_LOC]
+yātrayākunnu.
+
+14. pōlīs' sēnaykkāyi sēvanam ceyt' maraNamaTañña nāyakaLkk' trśśūrile pōlīs' akkādamiyil smrtikuTīrańńaLorukki.
+Tagged:
+pōlīs' [B_ORG]
+sēnaykkāyi [I_ORG]
+sēvanam
+ceyt'
+maraNamaTañña
+nāyakaLkk'
+trśśūrile [B_LOC]
+pōlīs' [B_ORG]
+akkādamiyil [I_ORG]
+smrtikuTīrańńaLorukki.
+
+15. aTuttavarSattōTe 36 Raphāl yuddhavimānańńaLum vyōmasēnayuTe bhāgamākumenn' sēnāmēdhāvi ār.ke.es'. bhadauriya.
+Tagged:
+aTuttavarSattōTe
+36
+Raphāl [B_LOC]
+yuddhavimānańńaLum [I_LOC]
+vyōmasēnayuTe [B_ORG]
+bhāgamākumenn'
+sēnāmēdhāvi
+ār.ke.es'. [B_PERS]
+bhadauriya [I_PERS]
+
+16. jillāpañcāyatt' kiTappurōgikaLkk' mobail vāksinēSan yūNiRR' upayõgicc' vāksin nalkunna paddhatiyuTe jillātala udghāTanam māRanallūril mantri ji.ār.anil nirvahiccu.
+Tagged:
+jillāpañcāyatt' [B_ORG]
+kiTappurōgikaLkk'
+mobail
+vāksinēSan
+yūNiRR'
+upayõgicc'
+vāksin
+nalkunna
+paddhatiyuTe
+jillātala
+udghāTanam
+māRanallūril [B_LOC]
+mantri
+ji.ār.anil [B_PERS]
+nirvahiccu.
+
+17. si.pi.emmil piNaRāyi vijayan etrattōLam tīpporiyāNo atrattōLam tīpporiyāN' kōNgrasil ke.sudhākaranum.
+Tagged:
+si.pi.emmil [B_ORG]
+piNaRāyi [B_PERS]
+vijayan [I_PERS]
+etrattōLam
+tīpporiyāNo
+atrattōLam
+tīpporiyāN'
+kōNgrasil [B_ORG]
+ke.sudhākaranum [B_PERS]
+
+18. kōzhikkōT' āsthānamāyi pravarttikkunna brahmānanda cāRiRRabiL TrasRRinRe prādēśika kēndram tiruvanantapuratt' pravarttanamārambhiccu.
+Tagged:
+kōzhikkōT' [B_LOC]
+āsthānamāyi
+pravarttikkunna
+brahmānanda [B_ORG]
+cāRiRRabiL [I_ORG]
+TrasRRinRe [I_ORG]
+prādēśika
+kēndram
+tiruvanantapuratt' [B_LOC]
+pravarttanamārambhiccu.
+
+19. senTram smōL phināns' bāńkinRe pravarttanam tuTańńānāyi Risarv' bāńk' 120 divasatte samayamāN' anuvadicciTTuLLatenn' senTram sarvīsas' eksikyūTTīv' ceyarmān jaspāl bhindra.
+Tagged:
+senTram [B_ORG]
+smōL [I_ORG]
+phināns' [I_ORG]
+bāńkinRe [I_ORG]
+pravarttanam
+tuTańńānāyi
+Risarv' [B_ORG]
+bāńk' [I_ORG]
+120
+divasatte
+samayamāN'
+anuvadicciTTuLLatenn'
+senTram [B_ORG]
+sarvīsas' [I_ORG]
+eksikyūTTīv'
+ceyarmān
+jaspāl [B_PERS]
+bhindra [I_PERS]
+
+20. aphgānistānil tālibān bhīkarar śaktiyuRappikkunnatiniTe pratirōdhamantriyeyum ābhyantaramantriyeyum sainika mēdhāviyeyum prasiDanR' aSRaph' gani sthānatt' ninn' nīkki.
+Tagged:
+aphgānistānil [B_GPE]
+tālibān [B_ORG]
+bhīkarar
+śaktiyuRappikkunnatiniTe
+pratirōdhamantriyeyum
+ābhyantaramantriyeyum
+sainika
+mēdhāviyeyum
+prasiDanR'
+aSRaph' [B_PERS]
+gani [I_PERS]
+sthānatt'
+ninn'
+nīkki.
+
+
+Sentences:
+
+1. സംസ്ഥാനത്ത് മരംകൊള്ളയ്ക്ക് വഴിയൊരുക്കിയ ഉത്തരവിൽ അവ്യക്തതകൾ ഉണ്ടായിരുന്നുവെന്ന് ഉത്തരവിട്ട അഡീഷണൽ ചിഫ് സെക്രട്ടറി ഡോ. എ. ജയതിലക് സമ്മതിച്ചു.
+Tagged:
+സംസ്ഥാനത്ത്
+മരംകൊള്ളയ്ക്ക്
+വഴിയൊരുക്കിയ
+ഉത്തരവിൽ
+അവ്യക്തതകൾ
+ഉണ്ടായിരുന്നുവെന്ന്
+ഉത്തരവിട്ട
+അഡീഷണൽ
+ചിഫ്
+സെക്രട്ടറി
+ഡോ. [B_PERS]
+എ. [I_PERS]
+ജയതിലക് [I_PERS]
+സമ്മതിച്ചു.
+
+2. യൂറോ കപ്പ് ഫുട്ബോളിൽ ഞായറാഴ്ച നടന്ന മത്സരങ്ങളിൽ ഇംഗ്ലണ്ട്, ഹോളണ്ട്, ഓസ്ട്രിയ ടീമുകൾക്ക് ജയം.
+Tagged:
+യൂറോ [B_ORG]
+കപ്പ് [B_ORG]
+ഫുട്ബോളിൽ
+ഞായറാഴ്ച
+നടന്ന
+മത്സരങ്ങളിൽ
+ഇംഗ്ലണ്ട് [B_GPE]
+ഹോളണ്ട് [B_GPE]
+ഓസ്ട്രിയ [B_GPE]
+ടീമുകൾക്ക്
+ജയം.
+
+3. ഇന്ത്യക്കാർക്ക് പുതിയ തൊഴിൽ വിസ അനുവദിക്കുന്നത് ബഹ്റൈൻ താത്കാലികമായി നിർത്തി.
+Tagged:
+ഇന്ത്യക്കാർക്ക് [B_NORP]
+പുതിയ
+തൊഴിൽ
+വിസ
+അനുവദിക്കുന്നത്
+ബഹ്റൈൻ [B_GPE]
+താത്കാലികമായി
+നിർത്തി.
+
+4. കോപ്പൻഹേഗനിലെ ആശുപത്രിയിൽ കഴിയുന്ന ക്രിസ്റ്റ്യൻ എറിക്സൺ സുഖംപ്രാപിച്ചുവരുന്നു.
+Tagged:
+കോപ്പൻഹേഗനിലെ [B_LOC]
+ആശുപത്രിയിൽ
+കഴിയുന്ന
+ക്രിസ്റ്റ്യൻ [B_PERS]
+എറിക്സൺ [I_PERS]
+സുഖംപ്രാപിച്ചുവരുന്.
+
+5. കിഴക്കൻ ജറുസലേമിലെ ഓൾഡ് സിറ്റിയിൽ തീവ്രവലതുപക്ഷ ജൂതമതക്കാർ റാലി നടത്തിയതിനുപിന്നാലെ ചൊവ്വഴ്ച ഇസ്രയേലിനുനേരെ പലസ്തീനികൾ തീബലൂണുകൾ തൊടുത്തു.
+Tagged:
+കിഴക്കൻ [B_GPE]
+ജറുസലേമിലെ [I_GPE]
+ഓൾഡ് [B_LOC]
+സിറ്റിയിൽ [I_LOC]
+തീവ്രവലതുപക്ഷ
+ജൂതമതക്കാർ [B_NORP]
+റാലി
+നടത്തിയതിനുപിന്നാലെ
+ചൊവ്വഴ്ച
+ഇസ്രയേലിനുനേരെ [B_GPE]
+പലസ്തീനികൾ [B_NORP]
+തീബലൂണുകൾ
+തൊടുത്തു.
+
+6. സി.പി.എം. സംസ്ഥാന കമ്മിറ്റി അംഗമായ പി. വിജയരാജൻ സ്വന്തം വ്യക്തിപ്രഭാവം വളർത്താൻ ശ്രമിക്കുന്നുവെന്ന ആരോപണവുമായി ബന്ധപ്പെട്ട പ്രശ്നങ്ങൾക്ക് പൂർണവിരാമമിടാൻ സി.പി.എം. തീരുമാനിച്ചു.
+Tagged:
+സി.പി.എം. [B_ORG]
+സംസ്ഥാന
+കമ്മിറ്റി
+അംഗമായ
+പി. [B_PERS]
+വിജയരാജൻ [I_PERS]
+സ്വന്തം
+വ്യക്തിപ്രഭാവം
+വളർത്താൻ
+ശ്രമിക്കുന്നുവെന്ന
+ആരോപണവുമായി
+ബന്ധപ്പെട്ട
+പ്രശ്നങ്ങൾക്ക്
+പൂർണവിരാമമിടാൻ
+സി.പി.എം. [B_ORG]
+തീരുമാനിച്ചു.
+
+7. തീവ്രനിലപാടുകാരനും സുപ്രീം കോടതി ചീഫ് ജസ്റ്റിസുമായ ഇബ്രാഹിം റെയ്സി ഇറാന്റെ എട്ടാമതു പ്രസിഡന്റായി തിരഞ്ഞെടുക്കപ്പെട്ടു.
+Tagged:
+തീവ്രനിലപാടുകാരനും
+സുപ്രീം [B_ORG]
+കോടതി [I_ORG]
+ചീഫ്
+ജസ്റ്റിസുമായ
+ഇബ്രാഹിം [B_PERS]
+റെയ്സി [I_PERS]
+ഇറാന്റെ [B_GPE]
+എട്ടാമതു
+പ്രസിഡന്റായി
+തിരഞ്ഞെടുക്കപ്പെട്ടു.
+
+8. ഇംഗ്ലണ്ഡിലെ സതാംപ്ടണിൽ പ്രഥമ ലോക ടെസ്റ്റ് ക്രിക്കറ്റ് ച്യാമ്പ്യൻഷിപ്പിന്റെ ഫൈനലിൽ ടോസിനായി ഇന്ത്യൻ ക്യാപ്റ്റൻ വിരാട് കോലിയും ന്യൂസീലണ്ഡ് ക്യാപ്റ്റൻ കെയ്ൻ വില്യംസണുമ ഗ്രൗണ്ഡിലെത്തിയപ്പോൾ.
+Tagged:
+ഇംഗ്ലണ്ഡിലെ [B_GPE]
+സതാംപ്ടണിൽ [B_LOC]
+പ്രഥമ
+ലോക [B_ORG]
+ടെസ്റ്റ് [I_ORG]
+ക്രിക്കറ്റ് [I_ORG]
+ച്യാമ്പ്യൻഷിപ്പിന്റെ [I_ORG]
+ഫൈനലിൽ
+ടോസിനായി
+ഇന്ത്യൻ [B_NORP]
+ക്യാപ്റ്റൻ
+വിരാട് [B_PERS]
+കോലിയും [I_PERS]
+ന്യൂസീലണ്ഡ് [B_GPE]
+ക്യാപ്റ്റൻ
+കെയ്ൻ [B_PERS]
+വില്യംസണുമ [I_PERS]
+ഗ്രൗണ്ഡിലെത്തിയപ്പോൾ.
+
+9. ഇന്ധനചെലവ് കുറയ്ക്കാനായി ഹരിത ഇന്ധനം ഉപയോഗിച്ചുള്ള കെ.എസ.ആർ.ടീ.സീ.യുടെ ആദ്യ എൽ.എൻ.ജി. ബസ് തിരുവനന്തപുരം എറണാകുളം, എറണാകുളം-കോഴിക്കോട് പാതയിൽ സർവീസ് തുടങ്.
+Tagged:
+ഇന്ധനചെലവ്
+കുറയ്ക്കാനായി
+ഹരിത
+ഇന്ധനം
+ഉപയോഗിച്ചുള്ള
+കെ.എസ.ആർ.ടീ.സീ.യുടെ [B_ORG]
+ആദ്യ
+എൽ.എൻ.ജി.
+ബസ്
+തിരുവനന്തപുരം [B_LOC]
+-എറണാകുളം [B_LOC]
+എറണാകുളം [B_LOC]
+-കോഴിക്കോട് [B_LOC]
+പാതയിൽ
+സർവീസ്
+തുടങ്ങും.
+
+10. തിരുവനന്തപുരം സ്വർണക്കടത്ത് കേസിൽ യു.എ.ഇ. പൗരന്മാർക്കുള്ള കസ്റ്റംസ് നോട്ടീസ് വിദേഷ കാര്യ മന്ത്രാലയത്തിലെത്തി.
+Tagged:
+തിരുവനന്തപുരം [B_LOC]
+സ്വർണക്കടത്ത്
+കേസിൽ
+യു.എ.ഇ. [B_GPE]
+പൗരന്മാർക്കുള്ള
+കസ്റ്റംസ്
+നോട്ടീസ്
+വിദേഷ [B_ORG]
+കാര്യ [I_ORG]
+മന്ത്രാലയത്തിൽ [I_ORG]
+എത്തി.
+
+11. കോൺഗ്രസ് നേതാവും വയനാട് എം.പി.യുമായ രാഹുൽഗാന്ധിയുടെ ൫൧-ആം പിറന്നാൾ ശനിയാഴ്ച കോൺഗ്രസ് സേവാദിനമായി ആചരിച്.]
+Tagged:
+കോൺഗ്രസ് [B_ORG]
+നേതാവും
+വയനാട് [B_GPE]
+എം.പി.യുമായ
+രാഹുൽഗാന്ധിയുടെ [B_PERS]
+൫൧-ആം
+പിറന്നാൾ
+ശനിയാഴ്ച
+കോൺഗ്രസ് [B_ORG]
+സേവാദിനമായി
+ആചരിച്ചു.
+
+12. നിയമസഭാ തിരഞ്ഞെടുപ്പിൽ സി.പി.എം. ഒഴുക്കിയ ഹവാലപ്പണത്തെക്കുറിച്ച് അന്വേഷിക്കണമെന്നാവശ്യപ്പെട്ട് ബി.ജെ.പി. സംസ്ഥാന തിരഞ്ഞെടുപ്പ് കമ്മിഷണർ ടിക്കാറാം മീണയ്ക്ക് പരാതി നൽകി.
+Tagged:
+നിയമസഭാ [B_ORG]
+തിരഞ്ഞെടുപ്പിൽ
+സി.പി.എം. [B_ORG]
+ഒഴുക്കിയ
+ഹവാലപ്പണത്തെക്കുറിച്ച്
+അന്വേഷിക്കണമെന്നാവശ്യപ്പെട്ട്
+ബി.ജെ.പി. [B_ORG]
+സംസ്ഥാന
+തിരഞ്ഞെടുപ്പ്
+കമ്മിഷണർ
+ടിക്കാറാം [B_PERS]
+മീണയ്ക്ക് [I_PERS]
+പരാതി
+നൽകി.
+
+13. ൧൯൭൬ ഡിസംബർ ൨൭ന് അന്നത്തെ പ്രധാനമന്ത്രി ഇന്ദിരാഗാന്ധി കൊച്ചിയിൽനിന്ന് ഇന്ത്യൻ നാവികസേനയുടെ കരുത്തിന്റെയും കീർത്തിയുടെയും പ്രതീകമായ ആദ്യത്തെ വിമാനവാഹിനിക്കപ്പൽ ഐ.എൻ.എസ. വിക്രാന്തിൽ ലക്ഷദ്വീപിലേക്ക് യാത്രയാകുന്നു.
+Tagged:
+൧൯൭൬
+ഡിസംബർ
+൨൭ന്
+അന്നത്തെ
+പ്രധാനമന്ത്രി
+ഇന്ദിരാഗാന്ധി [B_PERS]
+കൊച്ചിയിൽനിന്ന് [B_LOC]
+ഇന്ത്യൻ [B_ORG]
+നാവികസേനയുടെ [I_ORG]
+കരുത്തിന്റെയും
+കീർത്തിയുടെയും
+പ്രതീകമായ
+ആദ്യത്തെ
+വിമാനവാഹിനിക്കപ്പൽ
+ഐ.എൻ.എസ. [B_LOC]
+വിക്രാന്തിൽ [I_LOC]
+ലക്ഷദ്വീപിലേക്ക് [B_LOC]
+യാത്രയാകുന്നു.
+
+14. പോലീസ് സേനയ്ക്കായി സേവനം ചെയ്ത് മരണമടഞ്ഞ നായകൾക്ക് തൃശ്ശൂരിലെ പോലീസ് അക്കാദമിയിൽ സ്മൃതികുടീരങ്ങളൊരുക്കി.
+Tagged:
+പോലീസ് [B_ORG]
+സേനയ്ക്കായി [I_ORG]
+സേവനം
+ചെയ്ത്
+മരണമടഞ്ഞ
+നായകൾക്ക്
+തൃശ്ശൂരിലെ [B_LOC]
+പോലീസ് [B_ORG]
+അക്കാദമിയിൽ [I_ORG]
+സ്മൃതികുടീരങ്ങളൊരുക്കി.
+
+15. അടുത്തവർഷത്തോടെ ൩൬ റഫാൽ യുദ്ധവിമാനങ്ങളും വ്യോമസേനയുടെ ഭാഗമാകുമെന്ന് സേനാമേധാവി ആർ.കെ.എസ്. ഭദൗരിയ.
+Tagged:
+അടുത്തവർഷത്തോടെ
+൩൬
+റഫാൽ [B_LOC]
+യുദ്ധവിമാനങ്ങളും [I_LOC]
+വ്യോമസേനയുടെ [B_ORG]
+ഭാഗമാകുമെന്ന്
+സേനാമേധാവി
+ആർ.കെ.എസ്. [B_PERS]
+ഭദൗരിയ [I_PERS]
+
+16. ജില്ലാപഞ്ചായത്ത് കിടപ്പുരോഗികൾക്ക് മൊബൈൽ വാക്സിനേഷൻ യൂണിറ്റ് ഉപയോഗിച്ച് വാക്സിൻ നൽകുന്ന പദ്ധതിയുടെ ജില്ലാതല ഉദ്ഘാടനം മാറനല്ലൂരിൽ മന്ത്രി ജി.ആർ.അനിൽ നിർവഹിച്ചു.
+Tagged:
+ജില്ലാപഞ്ചായത്ത് [B_ORG]
+കിടപ്പുരോഗികൾക്ക്
+മൊബൈൽ
+വാക്സിനേഷൻ
+യൂണിറ്റ്
+ഉപയോഗിച്ച്
+വാക്സിൻ
+നൽകുന്ന
+പദ്ധതിയുടെ
+ജില്ലാതല
+ഉദ്ഘാടനം
+മാറനല്ലൂരിൽ [B_LOC]
+മന്ത്രി
+ജി.ആർ.അനിൽ [B_PERS]
+നിർവഹിച്ചു.
+
+17. സി.പി.എമ്മിൽ പിണറായി വിജയൻ എത്രത്തോളം തീപ്പൊരിയാണോ അത്രത്തോളം തീപ്പൊരിയാണ് കോൺഗ്രസിൽ കെ.സുധാകരനും.
+Tagged:
+സി.പി.എമ്മിൽ [B_ORG]
+പിണറായി [B_PERS]
+വിജയൻ [I_PERS]
+എത്രത്തോളം
+തീപ്പൊരിയാണോ
+അത്രത്തോളം
+തീപ്പൊരിയാണ്
+കോൺഗ്രസിൽ [B_ORG]
+കെ.സുധാകരനും [B_PERS]
+
+18. കോഴിക്കോട് ആസ്ഥാനമായി പ്രവർത്തിക്കുന്ന ബ്രഹ്മാനന്ദ ചാറിറ്റബിൾ ട്രസ്റ്റിന്റെ പ്രാദേശിക കേന്ദ്രം തിരുവനന്തപുരത്ത് പ്രവർത്തനമാരംഭിച്ചു.
+Tagged:
+കോഴിക്കോട് [B_LOC]
+ആസ്ഥാനമായി
+പ്രവർത്തിക്കുന്ന
+ബ്രഹ്മാനന്ദ [B_ORG]
+ചാറിറ്റബിൾ [I_ORG]
+ട്രസ്റ്റിന്റെ [I_ORG]
+പ്രാദേശിക
+കേന്ദ്രം
+തിരുവനന്തപുരത്ത് [B_LOC]
+പ്രവർത്തനമാരംഭിച്ചു.
+
+19. സെന്ട്രം സ്മോൾ ഫിനാൻസ് ബാങ്കിന്റെ പ്രവർത്തനം തുടങ്ങാനായി റിസർവ് ബാങ്ക് ൧൨൦ ദിവസത്തെ സമയമാണ് അനുവദിച്ചിട്ടുള്ളതെന്ന് സെന്ട്രം ഫിനാൻഷ്യൽ സർവീസസ് എക്സിക്യൂട്ടീവ് ചെയർമാൻ ജസ്പാൽ ഭിന്ദ്ര.
+Tagged:
+സെന്ട്രം [B_ORG]
+സ്മോൾ [I_ORG]
+ഫിനാൻസ് [I_ORG]
+ബാങ്കിന്റെ [I_ORG]
+പ്രവർത്തനം
+തുടങ്ങാനായി
+റിസർവ് [B_ORG]
+ബാങ്ക് [I_ORG]
+൧൨൦
+ദിവസത്തെ
+സമയമാണ്
+അനുവദിച്ചിട്ടുള്ളതെന്ന്
+സെന്ട്രം [B_ORG]
+ഫിനാൻഷ്യൽ [I_ORG]
+സർവീസസ് [I_ORG]
+എക്സിക്യൂട്ടീവ്
+ചെയർമാൻ
+ജസ്പാൽ [B_PERS]
+ഭിന്ദ്ര [I_PERS]
+
+20. അഫ്ഗാനിസ്താനിൽ താലിബാൻ ഭീകരർ ശക്തിയുറപ്പിക്കുന്നതിനിടെ പ്രതിരോധമന്ത്രിയെയും ആഭ്യന്തരമന്ത്രിയെയും സൈനിക മേധാവിയെയും പ്രസിഡന്റ് അഷ്റഫ് ഗനി സ്ഥാനത്ത് നിന്ന് നീക്കി.
+Tagged:
+അഫ്ഗാനിസ്താനിൽ [B_GPE]
+താലിബാൻ [B_ORG]
+ഭീകരർ
+ശക്തിയുറപ്പിക്കുന്നതിനിടെ
+പ്രതിരോധമന്ത്രിയെയും
+ആഭ്യന്തരമന്ത്രിയെയും
+സൈനിക
+മേധാവിയെയും
+പ്രസിഡന്റ്
+അഷ്റഫ് [B_PERS]
+ഗനി [I_PERS]
+സ്ഥാനത്ത്
+നിന്ന്
+നീക്കി.

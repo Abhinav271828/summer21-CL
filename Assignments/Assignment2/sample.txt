@@ -1,0 +1,13 @@
+Ramu [B-PER]
+ is 
+a
+ good
+boy 
+// new line of each sentence
+
+New [B-LOC] 
+York [I-LOC] 
+is
+ a 
+beautiful 
+city

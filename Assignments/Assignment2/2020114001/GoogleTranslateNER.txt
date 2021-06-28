@@ -1,0 +1,438 @@
+Translated (using GT) and tagged (using https://explosion.ai/demos/displacy-ent?)
+
+1. The Additional Chief Secretary, Dr. S.S. A. Jayathilak agreed.
+Tagged:
+The
+Additional
+Chief
+Secretary,
+Dr. [B_PERS]
+S.S. [I_PERS]
+A. [I_PERS]
+Jayathilak [I_PERS]
+agreed.
+
+2. England, Holland and Austria win Sunday's Euro Cup matches.
+Tagged:
+England [B_GPE]
+Holland [B_GPE]
+and
+Austria [B_GPE]
+win
+Sunday's
+Euro
+Cup
+matches.
+
+3. Bahrain suspends new work visas for Indians.
+Tagged:
+Bahrain [B_GPE]
+suspends
+new
+work
+visas
+for
+Indians [B_NORP]
+
+4. Christian Eriksson is recovering in a hospital in Copenhagen.
+Tagged:
+Christian [B_PERS]
+Eriksson [I_PERS]
+is
+recovering
+in
+a
+hospital
+in
+Copenhagen [B_ORG]
+
+5. Palestinians fired fireballs at Israel on Tuesday after a far-right Jewish rally in the Old City of East Jerusalem.
+Tagged:
+Palestinians [B_NORP]
+fired
+fireballs
+at
+Israel [B_GPE]
+on
+Tuesday
+after
+a
+far-right
+Jewish [B_GPE]
+rally
+in
+the
+Old [B_GPE]
+City [I_GPE]
+of [I_GPE]
+East [I_GPE]
+Jerusalem [I_GPE]
+
+6. C.P.M. State committee member P.S. The CPM wants to put an end to the problems related to the allegation that Vijayarajan is trying to develop his own personal influence. Decided.
+Tagged:
+C.P.M.
+State [B_ORG]
+committee
+member
+P.S. [B_PERS]
+The
+CPM [B_ORG]
+wants
+to
+put
+an
+end
+to
+the
+problems
+related
+to
+the
+allegation
+that
+Vijayarajan [B_PERS]
+is
+trying
+to
+develop
+his
+own
+personal
+influence.
+Decided.
+
+7. Extremist and Chief Justice of the Supreme Court Ibrahim Reyes has been elected the eighth President of Iran.
+Tagged:
+Extremist
+and
+Chief
+Justice
+of
+the
+Supreme [B_ORG]
+Court [I_ORG]
+Ibrahim [B_PERS]
+Reyes [B_PERS]
+has
+been
+elected
+the
+eighth
+President
+of
+Iran [B_GPE]
+
+8. When India captain Virat Kohli and New Zealand captain Kane Williams arrive at the ground for the toss in the final of the first World Test Cricket Championship in Southampton, England.
+Tagged:
+When
+India [B_GPE]
+captain
+Virat [B_PERS]
+Kohli [I_PERS]
+and
+New [B_GPE]
+Zealand [I_GPE]
+captain
+Kane [B_PERS]
+Williams [I_PERS]
+arrive
+at
+the
+ground
+for
+the
+toss
+in
+the
+final
+of
+the
+first
+World [B_ORG]
+Test [I_ORG]
+Cricket [I_ORG]
+Championship [I_ORG]
+in
+Southampton [B_GPE]
+England [B_GPE].
+
+9. KSRTC's first LNG using green fuel to reduce fuel costs. Buses will ply on the Thiruvananthapuram-Ernakulam and Ernakulam-Kozhikode routes.
+Tagged:
+KSRTC's [B_ORG]
+first
+LNG [B_ORG]
+using
+green
+fuel
+to
+reduce
+fuel
+costs.
+Buses
+will
+ply
+on
+the
+Thiruvananthapuram-Ernakulam [B_ORG]
+and
+Ernakulam-Kozhikode [B_PERS]
+routes.
+
+10. Thiruvananthapuram gold smuggling case: UAE Customs notice for citizens has reached the Ministry of Foreign Affairs.
+Tagged:
+Thiruvananthapuram
+gold
+smuggling
+case:
+UAE [B_ORG]
+Customs [I_ORG]
+notice
+for
+citizens
+has
+reached
+the
+Ministry [B_ORG]
+of [I_ORG]
+Foreign [I_ORG]
+Affairs [I_ORG]
+
+11. Congress leader and Wayanad MP Rahul Gandhi's 3rd birthday was celebrated on Saturday as Congress Service Day.
+Tagged:
+Congress [B_ORG]
+leader
+and
+Wayanad [B_PERS]
+MP [I_PERS]
+Rahul [I_PERS]
+Gandhi's [I_PERS]
+3rd
+birthday
+was
+celebrated
+on
+Saturday
+as
+Congress [B_ORG]
+Service [I_ORG]
+Day [I_ORG]
+
+12. CPM in the Assembly elections. The BJP has demanded an inquiry into the flow of hawala money. State Election Commissioner Tikaram Meena has lodged a complaint.
+Tagged:
+CPM [B_ORG]
+in
+the
+Assembly [B_ORG]
+elections.
+The
+BJP [B_ORG]
+has
+demanded
+an
+inquiry
+into
+the
+flow
+of
+hawala
+money.
+State
+Election
+Commissioner
+Tikaram [B_ORG]
+Meena [I_ORG]
+has
+lodged
+a
+complaint.
+
+13. ൧൯൭൬ On December 1, the then Prime Minister Indira Gandhi sailed from Kochi with the first aircraft carrier INS, a symbol of the strength and reputation of the Indian Navy. Departure for Lakshadweep at Vikrant.
+Tagged:
+൧൯൭൬
+On
+December
+1,
+the
+then
+Prime
+Minister
+Indira [B_PERS]
+Gandhi [I_PERS]
+sailed
+from
+Kochi [B_GPE]
+with
+the
+first
+aircraft
+carrier
+INS [B_ORG]
+a
+symbol
+of
+the
+strength
+and
+reputation
+of
+the
+Indian [B_ORG]
+Navy [I_ORG]
+Departure
+for
+Lakshadweep
+at
+Vikrant.
+
+14. Memorial tombs were set up at the Police Academy in Thrissur for the dogs who died while serving for the police force.
+Tagged:
+Memorial
+tombs
+were
+set
+up
+at
+the
+Police [B_ORG]
+Academy [I_ORG]
+in
+Thrissur [B_GPE]
+for
+the
+dogs
+who
+died
+while
+serving
+for
+the
+police
+force.
+
+15. By next year, Rafale fighter jets will also be part of the Air Force. Bhadauriya.
+Tagged:
+By
+next
+year,
+Rafale
+fighter
+jets
+will
+also
+be
+part
+of
+the
+Air [B_GPE]
+Force [I_GPE]
+Bhadauriya.
+
+16. Minister GR Anil inaugurated the district level scheme of vaccination of inpatients using mobile vaccination unit at District Panchayat, Maranallur.
+Tagged:
+Minister
+GR [B_PERS]
+Anil [I_PERS]
+inaugurated
+the
+district
+level
+scheme
+of
+vaccination
+of
+inpatients
+using
+mobile
+vaccination
+unit
+at
+District
+Panchayat,
+Maranallur [B_GPE]
+
+17. K. Sudhakaran is as fiery in the Congress as Pinarayi Vijayan is in the CPM.
+Tagged:
+K. [B_PERS]
+Sudhakaran [I_PERS]
+is
+as
+fiery
+in
+the
+Congress [B_ORG]
+as
+Pinarayi [B_PERS]
+Vijayan [I_PERS]
+is
+in
+the
+CPM.
+
+18. Kozhikode based Brahmananda Charitable Trust has set up a regional center at Thiruvananthapuram.
+Tagged:
+Kozhikode
+based
+Brahmananda [B_ORG]
+Charitable [I_ORG]
+Trust [I_ORG]
+has
+set
+up
+a
+regional
+center
+at
+Thiruvananthapuram [B_GPE]
+
+19. Jaspal Bhindra, Executive Chairman, Central Financial Services, said that the Reserve Bank of India (RBI) has allotted one day to start operations of the Central Small Finance Bank.
+Tagged:
+Jaspal [B_PERS]
+Bhindra [I_PERS]
+Executive [B_ORG]
+Chairman,
+Central [B_ORG]
+Financial [I_ORG]
+Services [I_ORG]
+said
+that
+the
+Reserve [B_ORG]
+Bank [I_ORG]
+of [I_ORG]
+India [I_ORG]
+(RBI)
+has
+allotted
+one
+day
+to
+start
+operations
+of
+the
+Central [B_ORG]
+Small [I_ORG]
+Finance [I_ORG]
+Bank [I_ORG]
+
+20. President Ashraf Ghani removes defense minister, interior minister and army chief as Taliban militants strengthen their presence in Afghanistan.
+Tagged:
+President
+Ashraf [B_PERS]
+Ghani [I_PERS]
+removes
+defense
+minister,
+interior
+minister
+and
+army
+chief
+as
+Taliban [B_ORG]
+militants
+strengthen
+their
+presence
+in
+Afghanistan [B_GPE]
