@@ -64,3 +64,5 @@ A collection of notes and resources for the Computational Linguistics (CL) cours
     * Lecture 14 (28 June, Monday) – Morph Analysis 6
         - Paradigm Based Morphological Analysers (contd.)
             - Paradigm Table
+    * Lecture 15 (29 June, Tuesday) – Morph Analysis 7
+        - FST-based Morphological Analysers
