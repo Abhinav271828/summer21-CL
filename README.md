@@ -6,7 +6,7 @@ A collection of notes and resources for the Computational Linguistics (CL) cours
 ## Course Topics
 - [x] Introduction
 - [ ] Language Processing Pipeline
-    - [ ] Morph Analysis
+    - [x] Morph Analysis
     - [ ] Word Meaning
     - [ ] Shallow and Sentence Parsing
         - [ ] POS Tagging
@@ -68,3 +68,7 @@ A collection of notes and resources for the Computational Linguistics (CL) cours
         - FST-based Morphological Analysers
     * Lecture 16 (30 June, Wednesday) – Morph Analysis 8
         - FST-based Morphological Analysers (contd.)
+* Week 7
+    * Lecture 17 (05 July, Monday) – Basics of Syntax
+        - Basics of Syntax
+        - Chunking
