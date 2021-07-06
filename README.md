@@ -71,4 +71,10 @@ A collection of notes and resources for the Computational Linguistics (CL) cours
 * Week 7
     * Lecture 17 (05 July, Monday) – Basics of Syntax
         - Basics of Syntax
-        - Chunking
+            - Chunks
+    * Lecture 18 (06 July, Tuesday) – Syntax 2
+        - Basics of Syntax (contd.)
+            - Chunks (contd.)
+            - Representation
+            - Augmented Transition Network
+        
