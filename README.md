@@ -77,4 +77,6 @@ A collection of notes and resources for the Computational Linguistics (CL) cours
             - Chunks (contd.)
             - Representation
             - Augmented Transition Network
-        
+    * Lecture 19 (07 July, Wednesday) – Syntax
+        - Basics of Syntax (contd.)
+            - Augmented Transition Network (contd.)
