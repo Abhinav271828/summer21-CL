@@ -77,9 +77,13 @@ A collection of notes and resources for the Computational Linguistics (CL) cours
             - Chunks (contd.)
             - Representation
             - Augmented Transition Network
-    * Lecture 19 (07 July, Wednesday) – Syntax
+    * Lecture 19 (07 July, Wednesday) – Syntax 3
         - Basics of Syntax (contd.)
             - Augmented Transition Network (contd.)
 * Week 8
     * Lecture 20 (12 July, Monday) – Speech Processing
         - Speech Production
+    * Lecture 21 (13 July, Tuesday) – Speech Processing
+        - Speech Production (contd.)
+            - Physiology
+            - Speech Signals
