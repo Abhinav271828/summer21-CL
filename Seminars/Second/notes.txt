@@ -1,0 +1,72 @@
+1. Introduction
+    - word embedding imp
+    - embeddings in vec space: word2vec, gloVe
+    - similarity is usually •
+    - analogy, compositionality are +
+    - entailment needs compositionality
+    - meaning conflation deficient
+
+    - single rep for similarity, analogy, compositionality, entailment and polysemy
+
+2. Related Work
+
+3. Background: Fuzzy Sets and Fuzzy Logic
+    - fuzzy set A = {(x,μ(x)), x \in Ω}
+    - if |Ω| = n
+    - :. A can be an n-tuple where A[i] = probability of ith member of Ω
+
+    - entropy = sum of entropies
+
+4. Representation and Operations
+    4.1 Construction the Tuple of Feature Probabilities
+        - exponentiate and average
+        - -> tuple of probabilities = fuzzy set
+
+    4.2 Operations on Feature Probabilities
+        - Feature union, intersection and difference
+            inters = common feats
+            union  = both
+            diff   = one but not the other
+        - Feature inclusion
+            subset: w1 \subsetseq w2 <=> w1[i] ≤ w2[i] \forall i
+
+    4.3 Interpreting Entropy
+        - measure of uncertainty of elements belonging to set
+        - highest entropy = A[i] ~ 1 - A[i]
+        - high entropy: so many word groups so fuzzy sets have some probability of most features
+        - => function words
+
+    4.4 Similarity Measures
+        - two claims: feature diff is inherent; also KL and cross-entropy
+        - all asymm
+        - KL Divergence: how close probability distributions
+        - Cross-Entropy: entropy of similarity (information theoretic)
+                         measure of polysemy
+    
+    4.5 Constructing Analogy
+        - a : b :: x : y
+          y = (b U x) \ a
+        - in lower dim spaces, feature dense and it works
+
+5. Experiments and Results
+    5.1 Similarity and Analogy
+        - reduction beyong 100 dims for similarity
+        - best for analogies
+        - prob dist is sparser for more dims
+
+    5.2 Function Word Detection
+        - great
+
+    5.3 Compositionality
+        - phrases by combining head and modifier
+
+    5.4 Dimensionality Analysis and Feature Representations
+
+6. Conclusion
+
+doubts:
+figures
+why 0 in dsu?
+polysemy, function words?
+other functions for normalisation
+compositionality

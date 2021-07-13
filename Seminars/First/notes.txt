@@ -1,0 +1,75 @@
+1. Introduction
+    - accessing data in FLs is common
+    - MT systems are not being improved
+    - alternatives:
+        unification-based grammar, lexical-semantics formalisms
+        HPSG
+        generative lexicon
+        corpus-based ez
+    - but: various domains, min. training data
+
+2. Pattern-Based Context-Free Grammars
+    - set of translation patterns
+    - pattern: set of CFG rules
+               (syntactic head & link constraints)*
+      e.g.  NP:1 miss:V:2 NP:3 -> S:2       = source
+            S:2 <- NP:3 manquer:V:2 à NP:1  = target
+
+    - constraints: head
+                        V ka head = "miss"
+                        identical because co-indexed
+                   link
+                        co-indexed non-terminal symbols are linked
+    - source + target = skeleton
+    - "head" is just a char string, not featurelist
+
+    - accept s with derivn Q, translate to t
+
+    Thm 1. T is a PCFG. \exists CFG G_T such that for L(T) = L(G_T).
+    Prop 1. CFG G is a set of source CFG skeletons in T. L(T) \subseteq L(G).
+    Prop 2. CFG H is a subset of source CFG skeletons in T. k \in H <=> k has no head constraints. L(H) \subseteq L(T)
+
+    Thm 2. CFG G is a set of source CFG skeletons in T. L(T) \subset L(G) is undecidable.
+
+3. The Translation Algorithm
+    - CFG parsing we know
+    - but we'll get too many charts
+    - :. find a candidate set of source charts in poly time
+    - restrictions are needed to avoid ambiguities, long transls; not allowed:
+        A -> X Y <- B
+        A -> X Y <- C1...B...Ck
+        IF there is     A -> X -> ... -> A
+                and     C1...B...Ck -> Y -> B
+    
+    Earley: predict(i): applicable rules at i
+    (1970)  complete(i): inactive charts ending at i w/ active charts
+            scan(i): inactive charts with s_{i+1}
+    complete(n) is full
+    
+    1. prefer patterns with head constraints over others w/ same skel
+    2. prefer patterns with more terminals in the source skel
+    3. prefer patterns that don't violate head constraints
+    4. shortest derivn seuqence for each substring
+
+    preferences expressed as cost
+
+    O() bad bad
+
+4. Features and Agreements
+    - nonterminal nodes can be associated with fixed-length vectors of features
+    - patterns can be weighted
+
+5. Integration of Bilingual Corpora
+    - view patterns and corpora together as a uniform set of transl pairs with varying degrees of lexicalisation
+    - scenarios
+        correct
+        competitive: lexicalisation
+                     addition of patterns
+        failure
+
+6. Conclusions and Future Work
+
+Earley (1970): "An Efficient Context-Free Parsing Algorithm"
+Gazdar, Pullum, Sag (1985): "Generalized Phrase Structure Grammar"
+Kaplan, Bresnan (1982): "Lexical-Functional Grammar"
+Maruyama (1993): "Context-Free Transducer..."
