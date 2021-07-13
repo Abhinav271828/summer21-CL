@@ -1,7 +1,9 @@
 ---
 author: Abhinav S Menon
 title: CL Seminar 2
-subtitle: Word Embeddings as Tuples of Feature Probabilities
+subtitle: | 
+              | Word Embeddings as Tuples of Feature Probabilities
+              | by Siddharth Bhat, Alok Debnath, Souvik Bannerjee and Manish Shrivastava
 theme: Dresden
 ---
 

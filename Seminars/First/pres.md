@@ -1,7 +1,9 @@
 ---
 author: Abhinav S Menon
 title: CL Seminar 1
-subtitle: Pattern-Based Context-Free Grammars for Machine Translation
+subtitle: |
+              | Pattern-Based Context-Free Grammars for Machine Translation
+              | by Koichi Takeda
 theme: Dresden
 ---
 
