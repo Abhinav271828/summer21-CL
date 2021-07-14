@@ -1,6 +1,6 @@
 # Computational Linguistics (CL3.101)
 ## Summer 2021, IIIT Hyderabad
-## 12 July, Monday (Lecture 20) – Speech Production
+## 13 July, Tuesday (Lecture 21) – Speech Production
 
 Taught by Prof. Anil Vuppala
 

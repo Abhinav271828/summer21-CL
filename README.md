@@ -5,14 +5,14 @@ A collection of notes and resources for the Computational Linguistics (CL) cours
 
 ## Course Topics
 - [x] Introduction
-- [ ] Language Processing Pipeline
+- [x] Language Processing Pipeline
     - [x] Morph Analysis
     - [ ] Word Meaning
     - [ ] Shallow and Sentence Parsing
-        - [ ] POS Tagging
+        - [x] POS Tagging
         - [ ] Shallow Parsing
         - [ ] Local Word Grouping (LWG)
-        - [ ] Chunking
+        - [x] Chunking
     - [ ] Multi-word Expressions (MWE)
     - [ ] Syntactic Parsing
         - [ ] Constituency Analysis
@@ -83,7 +83,11 @@ A collection of notes and resources for the Computational Linguistics (CL) cours
 * Week 8
     * Lecture 20 (12 July, Monday) – Speech Processing
         - Speech Production
-    * Lecture 21 (13 July, Tuesday) – Speech Processing
+    * Lecture 21 (13 July, Tuesday) – Speech Production
         - Speech Production (contd.)
             - Physiology
             - Speech Signals
+    * Lecture 22 (14 July, Wednesday) – Speech Processing
+        - Role of Linguists in Speech Processing
+            - Automatic Speech Recognition
+            - Text-to-Speech

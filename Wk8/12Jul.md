@@ -4,5 +4,5 @@
 
 Taught by Prof. Anil Vuppala
 
-## Speech Production
+## Speech Processing
 A demo of a speech-to-speech translation system was shown.
