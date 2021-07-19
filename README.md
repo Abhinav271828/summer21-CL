@@ -91,3 +91,8 @@ A collection of notes and resources for the Computational Linguistics (CL) cours
         - Role of Linguists in Speech Processing
             - Automatic Speech Recognition
             - Text-to-Speech
+ * Week 9
+    * Lecture 23 (19 July, Monday)
+        - Grammars
+            - Context-Free Grammar
+            - Transformational Grammar
