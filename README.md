@@ -18,7 +18,7 @@ A collection of notes and resources for the Computational Linguistics (CL) cours
         - [ ] Constituency Analysis
         - [ ] Dependency Analysis
         - [ ] Parsing Approaches
-- [ ] Speech Processing
+- [x] Speech Processing
 
 
 ## Lecture Contents
@@ -92,7 +92,12 @@ A collection of notes and resources for the Computational Linguistics (CL) cours
             - Automatic Speech Recognition
             - Text-to-Speech
  * Week 9
-    * Lecture 23 (19 July, Monday)
+    * Lecture 23 (19 July, Monday) – Syntax 4
         - Grammars
             - Context-Free Grammar
             - Transformational Grammar
+    * Lecture 24 (20 July, Tuesday) – Syntax 5
+        - Parsing
+            - Probabilistic CFGs
+            - Top-Down and Bottom-Up Parsing
+            - Ambiguities
