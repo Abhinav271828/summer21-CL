@@ -101,3 +101,9 @@ A collection of notes and resources for the Computational Linguistics (CL) cours
             - Probabilistic CFGs
             - Top-Down and Bottom-Up Parsing
             - Ambiguities
+* Week 10
+    * Lecture 25 (26 July, Monday)
+        - Parsing (contd.)
+            - Chunk Tags
+            - Syntactic Representation
+        - Semantics
