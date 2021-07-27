@@ -102,8 +102,12 @@ A collection of notes and resources for the Computational Linguistics (CL) cours
             - Top-Down and Bottom-Up Parsing
             - Ambiguities
 * Week 10
-    * Lecture 25 (26 July, Monday)
+    * Lecture 25 (26 July, Monday) – Syntax 6
         - Parsing (contd.)
             - Chunk Tags
             - Syntactic Representation
         - Semantics
+    * Lecture 26 (27 July, Tuesday) – Syntax 7
+        - Semantics (contd.)
+            - Thematic Roles
+            - Paninian Dependency Parsing
