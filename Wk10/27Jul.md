@@ -1,6 +1,6 @@
 # Computational Linguistics (CL3.101)
 ## Summer 2021, IIIT Hyderabad
-## 27 July, Tuesday (Lecture 26) – Syntax 6
+## 27 July, Tuesday (Lecture 26) – Syntax 7
 
 Taught by Prof. Radhika Mamidi
 
