@@ -111,3 +111,7 @@ A collection of notes and resources for the Computational Linguistics (CL) cours
         - Semantics (contd.)
             - Thematic Roles
             - Paninian Dependency Parsing
+    * Lecture 27 (28 July, Wednesday) – Syntax 8
+        -  Semantics (contd.)
+            - Paninian Dependency Parsing (contd.)
+            - Tree-Adjoining Grammar
