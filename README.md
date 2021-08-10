@@ -7,17 +7,13 @@ A collection of notes and resources for the Computational Linguistics (CL) cours
 - [x] Introduction
 - [x] Language Processing Pipeline
     - [x] Morph Analysis
-    - [ ] Word Meaning
-    - [ ] Shallow and Sentence Parsing
+    - [x] Word Meaning
         - [x] POS Tagging
-        - [ ] Shallow Parsing
-        - [ ] Local Word Grouping (LWG)
         - [x] Chunking
-    - [ ] Multi-word Expressions (MWE)
-    - [ ] Syntactic Parsing
-        - [ ] Constituency Analysis
-        - [ ] Dependency Analysis
-        - [ ] Parsing Approaches
+    - [x] Syntactic Parsing
+        - [x] Constituency Analysis
+        - [x] Dependency Analysis
+        - [x] Parsing Approaches
 - [x] Speech Processing
 
 
